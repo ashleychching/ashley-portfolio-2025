@@ -10,6 +10,7 @@ const nextConfig = {
     unoptimized: true,
   },
   output: "export", 
+  basePath: "/Ashley-Portfolio", 
 };
 
 export default nextConfig;
